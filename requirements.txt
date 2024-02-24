@@ -2,6 +2,7 @@ attr==0.3.2
 ConfigParser==6.0.1
 contextlib2==21.6.0
 cryptography==42.0.5
+cython==3.0.8
 docutils==0.20.1
 google_api_python_client==2.119.0
 HTMLParser==0.0.2
