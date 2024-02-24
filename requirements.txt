@@ -24,6 +24,5 @@ Sphinx==7.2.6
 streamlit==1.31.1
 thread==0.1.3
 tornado==6.4
-truststore==0.8.0
 urllib3_secure_extra==0.1.0
 xmlrpclib==1.0.1
